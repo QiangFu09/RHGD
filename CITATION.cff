@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying paper."
+type: software
+title: "Hamiltonian Descent Algorithms for Optimization: Accelerated Rates via Randomized Integration Time: research code"
+repository-code: "https://github.com/QiangFu09/RHGD"
+authors:
+  - family-names: Fu
+    given-names: Qiang
+preferred-citation:
+  type: conference-paper
+  title: "Hamiltonian Descent Algorithms for Optimization: Accelerated Rates via Randomized Integration Time"
+  authors:
+    - family-names: Fu
+      given-names: Qiang
+    - family-names: Wibisono
+      given-names: Andre
+  year: 2025
+  collection-title: "Advances in Neural Information Processing Systems"
+  url: "https://proceedings.neurips.cc/paper_files/paper/2025/hash/86a8a512b27f49519594ebe89f66d708-Abstract-Conference.html"
